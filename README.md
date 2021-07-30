@@ -3,7 +3,9 @@ get info about any package you like, eaither it's from npm or pip.
 
 ## Installation
 
-```js npm i tyizo-search ```
+```js 
+npm i tyizo-search 
+```
 
 
 ## Developer Installation
