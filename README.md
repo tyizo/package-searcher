@@ -1,12 +1,12 @@
 # Package Searcher
 get info about any package you like, eaither it's from npm or pip.
 
-## Install 
+## Developer Installation
 
--  Clone the repo ```js git clone https://github.com/tyizo/package-searcher/ ```
--  After that go to the dictionary where's the package located ```js cd package-searcher ```
--  Install the dependencies using ```js npm i ```
--  Compaile .ts files by ```js tsc ```
+-  Clone the repo ```git clone https://github.com/tyizo/package-searcher/```
+-  After that go to the dictionary where's the package located ```cd package-searcher ```
+-  Install the dependencies using ```npm i ```
+-  Compaile .ts files by ```tsc ```
 
 
 ## Example usage
