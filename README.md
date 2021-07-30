@@ -1,6 +1,11 @@
 # Package Searcher
 get info about any package you like, eaither it's from npm or pip.
 
+## Installation
+
+```js npm i tyizo-search ```
+
+
 ## Developer Installation
 
 -  Clone the repo ```git clone https://github.com/tyizo/package-searcher/```
