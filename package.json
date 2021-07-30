@@ -1,13 +1,26 @@
 {
-  "name": "getPackage",
+  "name": "tyizo-search",
+  "homepage": "https://github.com/tyizo/package-searcher/",
   "version": "1.0.0",
   "description": "get info from any package you like. npm or pip.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Tyizo",
+  "keywords": [
+    "nodejs",
+    "npm",
+    "typescript",
+    "ts",
+    "pip",
+    "python",
+    "javascript",
+    "js"
+  ],
+  "author": {
+    "name": "Tyizo",
+    "url": "https://github.com/tyizo/"
+  },
   "license": "ISC",
   "dependencies": {
     "@types/node-fetch": "^2.5.12",
