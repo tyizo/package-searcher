@@ -1,5 +1,5 @@
 {
-  "name": "package-searcher",
+  "name": "tyizo-package-searcher",
   "homepage": "https://github.com/tyizo/package-searcher/",
   "version": "1.0.0",
   "description": "get info from any package you like. npm or pip.",
