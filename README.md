@@ -5,7 +5,7 @@ get info about any package you like, eaither it's from npm or pip.
 ## Installation
 
 ```js
-npm i tyizo-search
+npm i tyizo-package-searcher
 ```
 
 ## Developer Installation
@@ -19,7 +19,7 @@ npm i tyizo-search
 
 ```js
 // require the package
-const { Search } = require("tyizo-search");
+const { Search } = require("tyizo-package-searcher");
 // a new search client
 const search = new Search();
 // npm search
